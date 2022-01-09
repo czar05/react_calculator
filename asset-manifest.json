@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//:czar05.github.io/react_calculator/static/css/main.995dbacc.css",
+    "main.js": "/http//:czar05.github.io/react_calculator/static/js/main.10d6c6e8.js",
+    "static/js/787.42c3c54b.chunk.js": "/http//:czar05.github.io/react_calculator/static/js/787.42c3c54b.chunk.js",
+    "index.html": "/http//:czar05.github.io/react_calculator/index.html",
+    "main.995dbacc.css.map": "/http//:czar05.github.io/react_calculator/static/css/main.995dbacc.css.map",
+    "main.10d6c6e8.js.map": "/http//:czar05.github.io/react_calculator/static/js/main.10d6c6e8.js.map",
+    "787.42c3c54b.chunk.js.map": "/http//:czar05.github.io/react_calculator/static/js/787.42c3c54b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995dbacc.css",
+    "static/js/main.10d6c6e8.js"
+  ]
+}
